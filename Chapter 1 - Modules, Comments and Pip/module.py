@@ -6,4 +6,4 @@ joke = pyjokes.get_joke()
 print(joke)
 
 
-# For multiline comment use the pair of tripple double inverted commas (""" """) to encode your comment.
+# For multiline comment use the pair of tripple double inverted commas (""" """) to enclose our comments.
