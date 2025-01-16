@@ -1,2 +1,14 @@
 # Python-
-Here are all the python programs practiced by me while learning the language
+
+This repository contains the Python basics programs. Each chapter includes hands-on Python programs to help beginners learn the fundamentals of Python programming.
+
+## Contents
+
+- **Chapter 1**: Introduction to Python and your first program.
+  - Program: `First.py`
+  
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Punit-144/Python-.git
