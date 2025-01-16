@@ -6,6 +6,7 @@ This repository contains the Python basics programs. Each chapter includes hands
 
 - **Chapter 1**: Introduction to Python and your first program.
   - Program: `First.py`
+  - Program: `module.py`
   
 ## Installation
 
