@@ -5,4 +5,4 @@ b = int(input("Enter b : "))
 c = a > b
 print("Is a greater than b or not : ", c)
 
-# Question Specifically asked for fixed a and b values but i improvised to get input from users using typeconversion. 
+# Question Specifically asked for fixed a and b values but i improvised to get input from users using typeconversion.

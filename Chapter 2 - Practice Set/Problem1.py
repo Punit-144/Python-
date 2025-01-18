@@ -1,4 +1,4 @@
-# WAP a python program to add two numbers 
+# WAP a python program to add two numbers.
 
 a = 3
 b= 4
